@@ -19,6 +19,7 @@
 // --- MQTT ---
 #include <PubSubClient.h>
 
+//aqui vai as modificações e bababa
 
 
 PubSubClient client(nodemcuClient);
