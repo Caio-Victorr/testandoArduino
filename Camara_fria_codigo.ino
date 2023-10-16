@@ -20,11 +20,10 @@
 #include <PubSubClient.h>
 
 //aqui vai as modificações e bababa
+/////////////////////
 
 
 PubSubClient client(nodemcuClient);
-
-
 
 // ---SENSORES DS18B20---
 #define pinoSensor1 27
